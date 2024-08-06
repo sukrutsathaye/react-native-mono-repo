@@ -1,0 +1,14 @@
+{
+  "name": "react-native-mono-repo",
+  "version": "1.0.0",
+  "description": "React Native Mono-Repo for implementing modular apps and services leveraging AI and other tools",
+  "main": "index.ts",
+  "repository": "https://github.com/sukrutsathaye/react-native-mono-repo.git",
+  "author": "sukrut29 <sukrutssathaye@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ]
+}
