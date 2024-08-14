@@ -1,6 +1,6 @@
 import { select } from '@inquirer/prompts';
-
 import figlet from 'figlet';
+
 
 // Display welcome message
 const displayWelcomeMessage = async () => {

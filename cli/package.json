@@ -13,7 +13,9 @@
     "commander": "^12.1.0",
     "figlet": "^1.7.0",
     "inquirer": "^10.1.8",
-    "inquirer-file-selector": "^0.2.1"
+    "inquirer-file-selector": "^0.2.1",
+    "inquirer-file-tree-selection-prompt": "^2.0.5",
+    "inquirer-fs-selector": "^1.5.0"
   },
   "devDependencies": {
     "@types/commander": "^2.12.2",
