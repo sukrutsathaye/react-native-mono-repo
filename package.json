@@ -11,7 +11,9 @@
     "packages/*",
     "apps/*"
   ],
-  "dependencies": {
-    
+  "dependencies": {},
+  "devDependencies": {
+    "@nrwl/workspace": "^19.5.7",
+    "nx": "19.5.7"
   }
 }
