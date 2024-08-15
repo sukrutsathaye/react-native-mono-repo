@@ -30,13 +30,5 @@
     }
   },
   "defaultBase": "main",
-  "nxCloudAccessToken": "YjU0MWVmZDctYzA5Ni00YTYxLWIzZjAtZTcwMTI1MjEyZGM0fHJlYWQtd3JpdGU=",
-  "tasksRunnerOptions": {
-    "default": {
-      "runner": "@nrwl/workspace/tasks-runners/default",
-      "options": {
-        "cacheableOperations": ["build", "lint", "test", "e2e"]
-      }
-    }
-  }
+  "nxCloudAccessToken": "YjU0MWVmZDctYzA5Ni00YTYxLWIzZjAtZTcwMTI1MjEyZGM0fHJlYWQtd3JpdGU="
 }
